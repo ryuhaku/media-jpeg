@@ -1,0 +1,10 @@
+{
+    "display_name": "Media JPEG Auto-Convert",
+    "loading_order": 5,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "ryuhaku",
+    "version": "0.1.0",
+    "homePage": ""
+}
